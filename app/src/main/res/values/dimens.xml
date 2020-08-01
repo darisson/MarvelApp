@@ -6,12 +6,12 @@
     <dimen name="title_size">16sp</dimen>
     <dimen name="progress_wheel_width">100dp</dimen>
     <dimen name="progress_wheel_height">100dp</dimen>
-    <dimen name="comic_desc_keylines">72dp</dimen>
-    <dimen name="comic_desc_text_size">20sp</dimen>
+    <dimen name="movie_desc_keylines">72dp</dimen>
+    <dimen name="movie_desc_text_size">20sp</dimen>
     <dimen name="app_bar_height">256dp</dimen>
-    <dimen name="comic_image_height">256dp</dimen>
+    <dimen name="movie_image_height">256dp</dimen>
     <dimen name="md_elevation">5dp</dimen>
-    <dimen name="item_comic_width">190dp</dimen>
-    <dimen name="item_comic_height">300dp</dimen>
+    <dimen name="item_movie_width">190dp</dimen>
+    <dimen name="item_movie_height">300dp</dimen>
 
 </resources>

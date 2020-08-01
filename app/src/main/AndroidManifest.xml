@@ -5,13 +5,13 @@
     <uses-permission android:name="android.permission.INTERNET" />
 
     <application
-        android:name=".presentation.MarvelApplication"
+        android:name="com.android.github.marvelapp.marvelapp.presentation.MarvelApplication"
         android:allowBackup="true"
         android:icon="@mipmap/ic_launcher"
         android:label="@string/app_name"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".presentation.ui.list.ComicListActivity">
+        <activity android:name="com.android.github.marvelapp.marvelapp.presentation.ui.list.MovieListActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
@@ -19,7 +19,7 @@
             </intent-filter>
         </activity>
 
-        <activity android:name=".presentation.ui.detail.ComicDetailActivity" />
+        <activity android:name="com.android.github.marvelapp.marvelapp.presentation.ui.detail.MovieDetailActivity" />
 
     </application>
 

@@ -3,12 +3,10 @@ apply plugin: 'com.android.application'
 android {
     compileSdkVersion 27
     defaultConfig {
-        applicationId "com.android.simone.github.marvelapp"
         minSdkVersion 15
         targetSdkVersion 27
         versionCode 1
         versionName "1.0"
-        testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
     }
 
     packagingOptions {
@@ -23,10 +21,10 @@ android {
         quiet true
         abortOnError false
         ignoreWarnings true
-        disable 'InvalidPackage'            //Some libraries have issues with this.
-        disable 'OldTargetApi'              //Lint gives this warning but SDK 20 would be Android L Beta.
-        disable 'IconDensities'             //For testing purpose. This is safe to remove.
-        disable 'IconMissingDensityFolder'  //For testing purpose. This is safe to remove.
+        disable 'InvalidPackage'          
+        disable 'OldTargetApi'
+        disable 'IconDensities'
+        disable 'IconMissingDensityFolder'
     }
 
     buildTypes {

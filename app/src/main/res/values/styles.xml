@@ -18,7 +18,7 @@
 
     <style name="TitleView">
         <item name="android:textColor">?attr/colorAccent</item>
-        <item name="android:textSize">@dimen/comic_desc_text_size</item>
+        <item name="android:textSize">@dimen/movie_desc_text_size</item>
     </style>
 
 </resources>

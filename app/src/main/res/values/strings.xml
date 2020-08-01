@@ -9,8 +9,8 @@
     </string>
     <string name="desc_title">Description</string>
     <string name="year_title">Year</string>
-    <string name="comic_title">Title</string>
-    <string name="price_title">Price</string>
+    <string name="movie_title">Title</string>
+    <string name="rated_title">Rated</string>
     <string name="ops_something_went_wrong_retry">Ops, Something went wrong. Retry?</string>
     <string name="no_results">No results</string>
     <string name="retry">Retry</string>

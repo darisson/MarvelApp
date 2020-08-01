@@ -3,7 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/MarvelApp.iml" filepath="$PROJECT_DIR$/MarvelApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/MarvelApp-app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/MarvelApp-app.iml" group="MarvelApp/app" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app-marvel-darisson-MarvelApp.iml" filepath="$PROJECT_DIR$/.idea/modules/app-marvel-darisson-MarvelApp.iml" group="MarvelApp" />
     </modules>
   </component>
 </project>
